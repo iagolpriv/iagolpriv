@@ -2,12 +2,12 @@
 
 ## 💫 </>About Me
 <br>Hola! 👋
-<br>Soy un apasionado programador junior de 29 años con sede en España. Desde que escribí mi primer "Hola Mundo", me enamoré de la programación y no he mirado atrás desde entonces. Mi deseo constante de aprender y crecer en este emocionante mundo tecnológico me motiva todos los días.
+<br>Soy un apasionado Full Stack Developer junior y freelance de 29 años con sede en España. Desde que escribí mi primer "Hola Mundo", me enamoré de la programación y no he mirado atrás desde entonces. Mi deseo constante de aprender y crecer en este emocionante mundo tecnológico me motiva todos los días.
 <br>Me considero un eterno aprendiz y estoy ansioso por desafiarme a mí mismo en proyectos creativos y estimulantes. Siempre estoy buscando nuevas oportunidades para contribuir a proyectos emocionantes y aprender de profesionales con más experiencia.
 <br>Mi enfoque está en convertirme en un desarrollador versátil y efectivo, y estoy dispuesto a trabajar duro para lograrlo. Me apasiona resolver problemas y transformar ideas en código funcional. 💻🚀
  
 <br>Hello! 👋
-<br>I'm a passionate 29-year-old junior programmer based in Spain. Since I wrote my first "Hello World," I fell in love with programming and I haven't looked back since. My constant desire to learn and grow in this exciting tech world motivates me every day.
+<br>I'm a passionate 29-year-old junior Full Stack Developer and freelance based in Spain. Since I wrote my first "Hello World," I fell in love with programming and I haven't looked back since. My constant desire to learn and grow in this exciting tech world motivates me every day.
 <br>I consider myself a lifelong learner, and I'm eager to challenge myself with creative and stimulating projects. I'm always on the lookout for new opportunities to contribute to exciting projects and learn from experienced professionals.
 <br>My focus is on becoming a versatile and effective developer, and I'm willing to work hard to achieve that. I'm passionate about problem-solving and turning ideas into functional code. 💻🚀
 
