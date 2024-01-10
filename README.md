@@ -12,7 +12,7 @@
 <br>My focus is on becoming a versatile and effective developer, and I'm willing to work hard to achieve that. I'm passionate about problem-solving and turning ideas into functional code. 💻🚀
 
 ## 🌐 </>Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/iagolpriv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iagolpriv) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iagolpriv) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/iagolpriv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iagolpriv)
 
 💬 @ iagolpriv@gmail.com
 
